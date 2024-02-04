@@ -1,3 +1,3 @@
-# Miiverse for HN
+# Miiverse Plaza for HN
 
-## What if we had something like Miiverse but for HN
+## What if we had something like the Miiverse Plaza but for HackerNews
